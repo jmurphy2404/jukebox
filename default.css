@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+	color: #011627;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 4em;
+	font-family: impact;
+}
+
+#nowPlaying{
+	font-family: impact;
+	color: #011627;
+	text-align: center;
+}
+
+.jukebox{
+	text-align: center;
+	width: 600px;
+	height: 450px;
+	background-color: #FF9F1C;
+	display: block;
+	margin: auto;
+	border: 3px solid #FDFFFC;
+}
+
+#rewind, #play, #pause, #forward{
+	cursor: pointer;
+	margin:auto;
+	padding: 0px 18px 0px 18px;	
+	font-size: 4em;
+	color: #011627;
+}
+
+body{
+	background-color: #E71D36;
+}
